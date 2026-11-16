@@ -1,7 +1,7 @@
 About cryptography-feedstock
 ============================
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/cryptography-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/debug-aarch64-freethreading-feedstock/blob/main/LICENSE.txt)
 
 
 About cryptography
@@ -51,8 +51,8 @@ Current build status
 <table><tr>
     <td>GitHub Actions</td>
     <td>
-      <a href="https://github.com/conda-forge/cryptography-feedstock/actions/workflows/conda-build.yml">
-        <img src="https://github.com/conda-forge/cryptography-feedstock/actions/workflows/conda-build.yml/badge.svg?event=push&branch=main">
+      <a href="https://github.com/conda-forge/debug-aarch64-freethreading-feedstock/actions/workflows/conda-build.yml">
+        <img src="https://github.com/conda-forge/debug-aarch64-freethreading-feedstock/actions/workflows/conda-build.yml/badge.svg?event=push&branch=main">
       </a>
     </td>
   </tr>
@@ -62,8 +62,8 @@ Current build status
     <td>
       <details>
         <summary>
-          <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=195&branchName=main">
-            <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/cryptography-feedstock?branchName=main">
+          <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+            <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/debug-aarch64-freethreading-feedstock?branchName=main">
           </a>
         </summary>
         <table>
@@ -71,43 +71,43 @@ Current build status
           <tbody><tr>
               <td>osx_64_is_abi3falsepython3.14.____cp314t</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=195&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/cryptography-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_is_abi3falsepython3.14.____cp314t" alt="variant">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/debug-aarch64-freethreading-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_is_abi3falsepython3.14.____cp314t" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_64_is_abi3falsepython3.15.____cp315t</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=195&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/cryptography-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_is_abi3falsepython3.15.____cp315t" alt="variant">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/debug-aarch64-freethreading-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_is_abi3falsepython3.15.____cp315t" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_64_is_abi3truepython3.11.____cpython</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=195&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/cryptography-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_is_abi3truepython3.11.____cpython" alt="variant">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/debug-aarch64-freethreading-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_is_abi3truepython3.11.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_arm64_is_abi3falsepython3.14.____cp314t</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=195&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/cryptography-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_is_abi3falsepython3.14.____cp314t" alt="variant">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/debug-aarch64-freethreading-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_is_abi3falsepython3.14.____cp314t" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_arm64_is_abi3falsepython3.15.____cp315t</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=195&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/cryptography-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_is_abi3falsepython3.15.____cp315t" alt="variant">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/debug-aarch64-freethreading-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_is_abi3falsepython3.15.____cp315t" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_arm64_is_abi3truepython3.11.____cpython</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=195&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/cryptography-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_is_abi3truepython3.11.____cpython" alt="variant">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/debug-aarch64-freethreading-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_is_abi3truepython3.11.____cpython" alt="variant">
                 </a>
               </td>
             </tr>
