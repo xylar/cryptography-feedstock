@@ -19,8 +19,6 @@ build:
     - is_abi3 and not is_python_min
     # todo: relocation errors
     - ppc64le
-    # todo: segfaults for unknown reason
-    - linux and aarch64 and is_freethreading
 
 outputs:
   - package:
@@ -164,8 +162,11 @@ outputs:
             - pytest-subtests
             - pytz
         script:
-          - python run_test.py
-          - pytest tests
+          env:
+            PYTHONFAULTHANDLER: "1"
+          content:
+            - python run_test.py
+            - pytest tests -v
 
 about:
   license: Apache-2.0 AND BSD-3-Clause AND PSF-2.0 AND MIT
